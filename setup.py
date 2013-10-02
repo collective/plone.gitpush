@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 version = '1.0'
 
-setup(name='plone.git',
+setup(name='plone.gitpush',
       version=version,
       description="",
       long_description=open("README.rst").read() + "\n" +
