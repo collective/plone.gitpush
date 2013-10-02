@@ -1,0 +1,3 @@
+*.py?
+plone.resource.egg-info/
+*.egg-info
